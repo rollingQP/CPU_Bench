@@ -1,8 +1,8 @@
 /*
  * C++ CPU Benchmark v1.0
  * Tests various CPU workloads
- * Compile with: g++ -O2 -pthread -o cpu_benchmark cpu_benchmark.cpp
- * Or with maximum optimization: g++ -O3 -march=native -pthread -o cpu_benchmark cpu_benchmark.cpp
+ * Compile with: g++ -O2 -pthread -o CPUBenchmark CPUBenchmark.cpp
+ * Or with maximum optimization: g++ -O3 -march=native -pthread -o CPUBenchmark CPUBenchmark.cpp
  */
 
 #include <iostream>
