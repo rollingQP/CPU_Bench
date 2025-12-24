@@ -15,7 +15,7 @@
  * 1. Added Pointer-Chasing Latency Test.
  * 2. Maintained Streaming Stores and AVX Read kernels.
  * * Compile:
- * g++ -O3 -mavx2 -march=native -fopenmp ram_benchmark.cpp -o ram_benchmark
+ * g++ -O3 -mavx2 -march=native -fopenmp RamBenchmark.cpp -o RamBenchmark
  */
 
 using namespace std;
