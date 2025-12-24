@@ -2,3 +2,6 @@
 /CPUBenchmark.class
 /CPUBenchmark.exe
 /CPUBenchmark.jar
+RamBenchmark.class
+.gitignore
+RAMBenchmark.exe
