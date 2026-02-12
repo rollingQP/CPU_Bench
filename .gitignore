@@ -6,3 +6,5 @@ RamBenchmark.class
 .gitignore
 RAMBenchmark.exe
 CPUBenchmark
+AESTest.exe
+SwapTest.exe
